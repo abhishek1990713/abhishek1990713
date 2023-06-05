@@ -1,14 +1,11 @@
 
 <h1>Hi There, I'm Abhishek sharma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Data scientist** working at [Indianic](https://www.indianic.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Data Science
-- 🌱 I’m currently learning ...TensorFlow
-- 💬 Ask me about ...Machine Learning, Statistics and Probability, OpenCv
-- 📫 How to reach me: ...renukaalai@gmail.com
+- 📫 How to reach me: ...abhishek1990713@gmail.com
 -->
 
 
